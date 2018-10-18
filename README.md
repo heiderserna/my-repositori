@@ -1,0 +1,2 @@
+# my-repositori
+guardar informacion
